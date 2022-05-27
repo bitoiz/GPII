@@ -1,3 +1,3 @@
 
-cd view-master/view-master
+cd view
 ./gradlew task
