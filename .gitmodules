@@ -1,3 +1,6 @@
 [submodule "easybug"]
 	path = easybug
 	url = https://github.com/k-tamura/easybuggy
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/WordPress/WordPress.git
