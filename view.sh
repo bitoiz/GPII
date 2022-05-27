@@ -1,3 +1,3 @@
 
-cd webview-master/webview-master
+cd view-master/view-master
 ./gradlew task
