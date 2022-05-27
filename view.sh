@@ -1,3 +1,3 @@
 
-cd view
+cd viewer
 ./gradlew task
